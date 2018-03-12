@@ -1,0 +1,22 @@
+{
+  "name": "mlgzzz",
+  "version": "1.0.0",
+  "description": "mlgzzz.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mlgzzz/mlgzzz.github.io.git"
+  },
+  "keywords": [
+    "19921029061x"
+  ],
+  "author": "mlgzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlgzzz/mlgzzz.github.io/issues"
+  },
+  "homepage": "https://github.com/mlgzzz/mlgzzz.github.io#readme"
+}
